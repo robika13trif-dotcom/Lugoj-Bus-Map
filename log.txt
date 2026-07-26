@@ -1,0 +1,11 @@
+Agencies: Aigency
+Feed Version: Unknown
+GTFS-to-HTML Version: 2.13.2
+Date Generated: 2026-07-26T16:46:47.272Z
+Timetable Page Count: 1
+Timetable Count: 2
+Calendar Service ID Count: 1
+Route Count: 1
+Trip Count: 66
+Stop Count: 5
+Source: /tmp/b4c9006c88f8564f7708e766b949e295/Test.zip
